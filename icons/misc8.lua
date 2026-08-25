@@ -214,3 +214,4 @@ a["@Lizardmonger"] = {"LibCustomIcons/icons/misc8/Lizardmonger_anim.dds", 4, 1, 
 a["@Armyoftre"] = {"LibCustomIcons/icons/misc8/Armyoftre_anim.dds", 9, 1, 8}
 s["@IDaimosI"] = "LibCustomIcons/icons/misc8/IDaimosI.dds"
 --a["@IDaimosI"] = {"LibCustomIcons/icons/misc8/IDaimosI_anim.dds", 0, 0, 0}
+s["@Zedeus"] = "LibCustomIcons/icons/misc8/Zedeus.dds"
