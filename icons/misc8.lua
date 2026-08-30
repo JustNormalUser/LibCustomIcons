@@ -219,3 +219,4 @@ a["@rizukii"] = {"LibCustomIcons/icons/misc8/rizukii_anim.dds", 32, 1, 9}
 s["@xDeathroar"] = "LibCustomIcons/icons/misc8/xDeathroar.dds"
 s["@khaleeki"] = "LibCustomIcons/icons/misc8/khaleeki.dds"
 s["@ScarGard12"] = "LibCustomIcons/icons/misc8/ScarGard12.dds"
+a["@Banira'Ai"] = {"LibCustomIcons/icons/misc8/BaniraAi_anim.dds", 4, 1, 10}
