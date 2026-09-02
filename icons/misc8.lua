@@ -220,3 +220,5 @@ s["@xDeathroar"] = "LibCustomIcons/icons/misc8/xDeathroar.dds"
 s["@khaleeki"] = "LibCustomIcons/icons/misc8/khaleeki.dds"
 s["@ScarGard12"] = "LibCustomIcons/icons/misc8/ScarGard12.dds"
 a["@Banira'Ai"] = {"LibCustomIcons/icons/misc8/BaniraAi_anim.dds", 4, 1, 10}
+s["@HondaForLife"] = "LibCustomIcons/icons/misc8/HondaForLife.dds"
+a["@HondaForLife"] = {"LibCustomIcons/icons/misc8/HondaForLife_anim.dds", 8, 4, 16}
